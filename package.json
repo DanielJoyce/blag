@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "claudia": "^2.9.0",
+    "rollup": "^0.41.5",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-string": "^2.0.2",
+    "typescript": "^2.2.1"
+  },
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "simplemde": "^1.11.2"
+  }
+}
