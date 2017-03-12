@@ -15,3 +15,8 @@ was chosen as being something non-trivial to implement.
 * [ ] Rest API via Claudia, Lambda, and API Gateway
 * [ ] Online account creation
 * [ ] Templating support 
+
+## FAQ
+
+* **Why 'blag'?** 
+  * To blag means to bluff or lie one's way through something. So this can be taken as a critique of what many bloggers do, or a statementon my process of figuring AWS out. :)
