@@ -2,7 +2,7 @@
 Blag is a Blog that uses AWS services
 
 Please be aware this a project for me to learn new technologies. A blog service 
-was chosen as being 
+was chosen as being something non-trivial to implement.
 
 ## Planned Features
 
